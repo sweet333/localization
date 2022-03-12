@@ -1,24 +1,24 @@
-NO_PERM: '§b§lApexCloud:: §cYou don`t have permission!'
-MINIMAL_GROUP: '§b§lApexCloud:: §cError, you dont have permission buy %group% §cor higher!'
-USE_LOGIN_SERVER: '§b§lApexCloud:: §cError, this command is not allowed on this server!'
-NO_PLAYER: '§b§lApexCloud:: §fThis player has not played on our server before'
-PLAYER_NOT_AUTH: '§b§lApexCloud:: §cError, You are not logged in'
-PLAYER_NOT_REGISTER: '§b§lApexCloud:: §cError, You are not registered'
-PLAYER_WRONG_PASSWORD: '§b§lApexCloud:: §cError, incorrect password!'
-PLAYER_SUCCESS_CHANGE_PASSWORD: '§b§lApexCloud:: §7Your password has been successfully changed!'
-PLAYER_ALREADY_AUTH: '§b§lApexCloud:: §cError, You are already logged in, enjoy your game!'
-PLAYER_OFFLINE: '§b§lApexCloud:: §cError, player offline!'
-USE_ONLY_AUTH: '§b§lApexCloud:: §cError, You are not logged in yet!'
-PLAYER_BYPASS: '§b§lApexCloud:: §cError, You cannot punish this player'
-ALREADY_CONNECTION: '§b§lApexCloud:: §cError, you are already on this server!'
-SERVER_NOT_FOUND: '§b§lApexCloud:: §cError, this server is not connected to Core!'
-CHANGE_PASSWORD_USAGE: '§b§lApexCloud:: §fUse - §6/changepassword <Old Password> <New Password>'
-LOGIN_USAGE: '§b§lApexCloud:: §fUse - §6/login <Password>'
-REGISTER_USAGE: '§b§lApexCloud:: §fUse - §6/register <password> <repeat password>'
-UNREGISTER_USAGE: '§b§lApexCloud:: §fUse - §6/unregister <player>'
-UNREGISTER_SUCCESS: '§b§lApexCloud:: §fYou have successfully unregistered a player'
-PASSWORD_NOT_VALID: '§b§lApexCloud:: §cError, This password is too short or is too long '
-PASSWORD_NOT_MATCH: '§b§lApexCloud:: §cError, these passwords do not match!'
+NO_PERM: '§eRedix §8| §cYou don`t have permission!'
+MINIMAL_GROUP: '§eRedix §8| §cError, you dont have permission buy %group% §cor higher!'
+USE_LOGIN_SERVER: '§eRedix §8| §cError, this command is not allowed on this server!'
+NO_PLAYER: '§eRedix §8| §fThis player has not played on our server before'
+PLAYER_NOT_AUTH: '§eRedix §8| §cError, You are not logged in'
+PLAYER_NOT_REGISTER: '§eRedix §8| §cError, You are not registered'
+PLAYER_WRONG_PASSWORD: '§eRedix §8| §cError, incorrect password!'
+PLAYER_SUCCESS_CHANGE_PASSWORD: '§eRedix §8| §f§7Your password has been successfully changed!'
+PLAYER_ALREADY_AUTH: '§eRedix §8| §cError, You are already logged in, enjoy your game!'
+PLAYER_OFFLINE: '§eRedix §8| §cError, player offline!'
+USE_ONLY_AUTH: '§eRedix §8| §cError, You are not logged in yet!'
+PLAYER_BYPASS: '§eRedix §8| §cError, You cannot punish this player'
+ALREADY_CONNECTION: '§eRedix §8| §cError, you are already on this server!'
+SERVER_NOT_FOUND: '§eRedix §8| §cError, this server is not connected to Core!'
+CHANGE_PASSWORD_USAGE: '§eRedix §8| §fUse - §6/changepassword <Old Password> <New Password>'
+LOGIN_USAGE: '§eRedix §8| §fUse - §6/login <Password>'
+REGISTER_USAGE: '§eRedix §8| §fUse - §6/register <password> <repeat password>'
+UNREGISTER_USAGE: '§eRedix §8| §fUse - §6/unregister <player>'
+UNREGISTER_SUCCESS: '§eRedix §8| §fYou have successfully unregistered a player'
+PASSWORD_NOT_VALID: '§eRedix §8| §cError, This password is too short or is too long '
+PASSWORD_NOT_MATCH: '§eRedix §8| §cError, these passwords do not match!'
 ACCOUNT_NOT_LINKED_VK:
   - ''
   - '§c§l⚠ Attention! §fYou do not have a §bVK page linked to your account.'
@@ -26,21 +26,21 @@ ACCOUNT_NOT_LINKED_VK:
   - 'If you get hacked, you can easily restore your account!'
   - 'Do it now by writing in group messages: §evk.com/ApexCloud'
   - 'Command - §6!привязать [player] [password]'
-PLAYER_SUCCESS_AUTH: '§b§lApexCloud:: §f6You successfully registered!'
+PLAYER_SUCCESS_AUTH: '§eRedix §8| §f6You successfully registered!'
 NO_VK: '§8▪ §fVK - §cNot linked'
 VK_URL: '§8▪ §fVK - §ahttps://vk.com/id%vkId%'
 
 # Core messages
-ALERT_HELP: '§b§lApexCloud:: §fUse - §a/alert <message>'
-FIND_HELP: '§b§lApexCloud:: §fUse - §a/find <player>'
-INFO_HELP: '§b§lApexCloud:: §fUse - §a/info <player>'
-SERVER_HELP: '§b§lApexCloud:: §fUse - §a/server <server>'
-SEND_HELP: '§b§lApexCloud:: §fUse - §a/send <player> <server>'
-CRASH_HELP: '§b§lApexCloud:: §fUse - §a/crash <player>'
-FIND_MESSAGE: '§b§lApexCloud:: %player% §flocated on the server §e%server%'
-MONEY_MESSAGE: '§b§lApexCloud:: §fYour balance is §e%money% §fand §6%golds%'
-PING_YOURSELF_MESSAGE: '§b§lApexCloud:: §fYour ping is §a%ping% §fms'
-PING_OTHER_MESSAGE: '§b§lApexCloud:: §fPlayer Ping %player% §f- §a%ping% §fms'
+ALERT_HELP: '§eRedix §8| §fUse - §a/alert <message>'
+FIND_HELP: '§eRedix §8| §fUse - §a/find <player>'
+INFO_HELP: '§eRedix §8| §fUse - §a/info <player>'
+SERVER_HELP: '§eRedix §8| §fUse - §a/server <server>'
+SEND_HELP: '§eRedix §8| §fUse - §a/send <player> <server>'
+CRASH_HELP: '§eRedix §8| §fUse - §a/crash <player>'
+FIND_MESSAGE: '§eRedix §8| §f%player% §flocated on the server §e%server%'
+MONEY_MESSAGE: '§eRedix §8| §fYour balance is §e%money% §fand §6%golds%'
+PING_YOURSELF_MESSAGE: '§eRedix §8| §fYour ping is §a%ping% §fms'
+PING_OTHER_MESSAGE: '§eRedix §8| §fPlayer Ping %player% §f- §a%ping% §fms'
 
 # Welcome messages
 WELCOME_MESSAGE:
@@ -259,12 +259,12 @@ WHITELIST_KICK_MESSAGE:
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
 TELEPORT_MESSAGE:
-  - '§b§lApexCloud:: §fList of available commands:'
+  - '§eRedix §8| §fList of available commands:'
   - ' §7Teleport to the player - §a/teleport <player>'
   - ' §7Teleport one player to another - §a/teleport <player> <player>'
   - ' §7Teleportation by coordinates - §a/teleport <x> <y> <z>'
   - ' §7Player teleportation by coordinates - §a/teleport <player> <x> <y> <z>'
-TELEPORT_SUCCESS_TELEPORT: '§b§lApexCloud:: §fYou have been teleported to the player %player%'
+TELEPORT_SUCCESS_TELEPORT: '§eRedix §8| §fYou have been teleported to the player %player%'
 
 # Essentials messages.
 AUCTION_HELP_MESSAGE:
@@ -276,16 +276,16 @@ AUCTION_SELL_ERROR_NOT_NUMBER: '§6§lAuction §8:: §cОшибка, указа�
 AUCTION_SELL_ERROR_NOT_ITEM: '§6§lAuction §8:: §cОшибка, у Вас нет никакого предмета в руках!'
 AUCTION_SELL_SUCCESS_ADD_ITEM: '§6§lAuction §8:: §fВы успешно выставили товар в руках на аукцион за §a%money%'
 
-WEATHER_FORMAT: '§b§lApexCloud:: §fИспользуйте - §6/weather <thunder/storm/sun>'
-WEATHER_SUCCESS_CHANGE_SKY: '§b§lApexCloud:: §fПогода в мире §e%world% §fбыла успешно изменена!'
-BACKWARD_ERROR_NOT_LOCATION: '§b§lApexCloud:: §cОшибка, у Вас нет предыдущей точки телепортации!'
-CLEAR_SUCCESS_RESET: '§b§lApexCloud:: §fВы были полностью очищены от вещей и эффектов!'
-DAY_SUCCESS_SET_TIME: '§b§lApexCloud:: §fВ мире §e%world% §fбыло установено §6дневное §fвремя суток'
-NIGHT_SUCCESS_SET_TIME: '§b§lApexCloud:: §fВ мире §e%world% §fбыло установено §9ночное §fвремя суток'
-EXT_MESSAGE: '§b§lApexCloud:: §fYou §asuccessfully §fextinguished!'
-FEED_MESSAGE: '§b§lApexCloud:: §fYou §successfully §ffeed yourself!'
-FLY_MESSAGE: '§b§lApexCloud:: §fFlight mode: %fly%'
-HEAL_MESSAGE: '§b§lApexCloud:: §fYour health §asuccess §frecovered!'
+WEATHER_FORMAT: '§eRedix §8| §fИспользуйте - §6/weather <thunder/storm/sun>'
+WEATHER_SUCCESS_CHANGE_SKY: '§eRedix §8| §fПогода в мире §e%world% §fбыла успешно изменена!'
+BACKWARD_ERROR_NOT_LOCATION: '§eRedix §8| §cОшибка, у Вас нет предыдущей точки телепортации!'
+CLEAR_SUCCESS_RESET: '§eRedix §8| §fВы были полностью очищены от вещей и эффектов!'
+DAY_SUCCESS_SET_TIME: '§eRedix §8| §fВ мире §e%world% §fбыло установено §6дневное §fвремя суток'
+NIGHT_SUCCESS_SET_TIME: '§eRedix §8| §fВ мире §e%world% §fбыло установено §9ночное §fвремя суток'
+EXT_MESSAGE: '§eRedix §8| §fYou §asuccessfully §fextinguished!'
+FEED_MESSAGE: '§eRedix §8| §fYou §successfully §ffeed yourself!'
+FLY_MESSAGE: '§eRedix §8| §fFlight mode: %fly%'
+HEAL_MESSAGE: '§eRedix §8| §fYour health §asuccess §frecovered!'
 
 # Level
 LVL_UP_TITLE: '§a§l§kX§c§l LEVEL UP §a§l§kX§r'
@@ -328,7 +328,7 @@ STREAMS_ANNOUNCE:
   - ' §8| §c§lWARNING! §fthe server is now running §b%count% §flive streams!'
   - ''
   - ' §8§l↪ §7(Open the list of streams) §8§l↩'
-STREAM_UPDATE_REMOVED: '&6&lApexCloud &8:: &fYour &7%stream_title% &fstream has been deleted because it`s no longer actual'
+STREAM_UPDATE_REMOVED: '§eRedix §8| §f&fYour &7%stream_title% &fstream has been deleted because it`s no longer actual'
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
@@ -472,7 +472,7 @@ BEDWARS_BOARD_LINES:
 
 # Core player info messages.
 INFO:
-  - '§b§lApexCloud:: §fPlayer information %player%'
+  - '§eRedix §8| §fPlayer information %player%'
   - '§8▪ §fUnique ID - §c%id%'
   - '§8▪ §fGroup - %group%'
   - '§8▪ §fBalance - §a%money%'
@@ -493,7 +493,7 @@ INFO_OFFLINE:
 
 # Language chat messages.
 LANGUAGE_SELECT_MENU_TITLE: 'Switch language'
-LANG_SELECT: '§b§lApexCloud:: §fYour language has been changed to §cEnglish!'
+LANG_SELECT: '§eRedix §8| §fYour language has been changed to §cEnglish!'
 CHAT_HOVER:
   - '§7Statistics of %prefix% %player%§7:'
   - ' §8| §7Level: §d%level%'
@@ -849,8 +849,8 @@ FASTMESSAGE_MENU_TITLE: '§8Donate Menu ▸ Fast Messages'
 
 # Joiner
 JOINER_MENU_TITLE: '§8Donate Menu ▸ Joiner'
-JOINER_SELECT_MESSAGE: '§b§lApexCloud:: §fSelect §eMessage #%id% §fof category %category%'
-JOINER_BUY_MESSAGE: '§b§lApexCloud:: §fSuccessfully buy §eMessage #%id% §fof category %category% §ffor §6%cost% gold'
+JOINER_SELECT_MESSAGE: '§eRedix §8| §fSelect §eMessage #%id% §fof category %category%'
+JOINER_BUY_MESSAGE: '§eRedix §8| §fSuccessfully buy §eMessage #%id% §fof category %category% §ffor §6%cost% gold'
 
 # Status messages.
 STATUS_MENU_TITLE: 'Profile ▸ Donate'
@@ -869,22 +869,22 @@ DONATE_BUY_MESSAGE:
   - '§9'
 
 # Core chat system.
-DONATE_CHAT_FORMAT: '§b§lApexCloud:: §fUse - §6/donatechat <message>'
-DONATE_CHAT_ERROR_DUPLICATE_ON: '§b§lApexCloud:: §cDonate Chat is already included for you!'
-DONATE_CHAT_ERROR_DUPLICATE_OFF: '§b§lApexCloud:: §cDonate Chat chat is already off for you!'
-DONATE_CHAT_SUCCESS_ON: '§b§lApexCloud:: §fDonate Chat was turned on successfully!'
-DONATE_CHAT_SUCCESS_OFF: '§b§lApexCloud:: §fDonate Chat was turned off successfully!'
-DONATE_CHAT_OFF: '§b§lApexCloud:: §cDonate Chat switched off, You cannot write here!'
-DONATE_CHAT_COOLDOWN: '§b§lApexCloud:: §cError, wait time before using this command again %time%'
+DONATE_CHAT_FORMAT: '§eRedix §8| §fUse - §6/donatechat <message>'
+DONATE_CHAT_ERROR_DUPLICATE_ON: '§eRedix §8| §cDonate Chat is already included for you!'
+DONATE_CHAT_ERROR_DUPLICATE_OFF: '§eRedix §8| §cDonate Chat chat is already off for you!'
+DONATE_CHAT_SUCCESS_ON: '§eRedix §8| §fDonate Chat was turned on successfully!'
+DONATE_CHAT_SUCCESS_OFF: '§eRedix §8| §fDonate Chat was turned off successfully!'
+DONATE_CHAT_OFF: '§eRedix §8| §cDonate Chat switched off, You cannot write here!'
+DONATE_CHAT_COOLDOWN: '§eRedix §8| §cError, wait time before using this command again %time%'
 
 # Core friends messages.
-FRIENDS_ADD_FORMAT: '§b§lApexCloud:: §fUse - §6/f add <player name>'
-FRIENDS_REMOVE_FORMAT: '§b§lApexCloud:: §fUse - §6/f remove <player name>'
-FRIENDS_ACCEPT_FORMAT: '§b§lApexCloud:: §fUse - §6/f accept <player name>'
-FRIENDS_DENY_FORMAT: '§b§lApexCloud:: §fUse - §6/f deny <player name>'
-FRIENDS_TP_FORMAT: '§b§lApexCloud:: §fИспользуйте - §6/f tp <player name>'
+FRIENDS_ADD_FORMAT: '§eRedix §8| §fUse - §6/f add <player name>'
+FRIENDS_REMOVE_FORMAT: '§eRedix §8| §fUse - §6/f remove <player name>'
+FRIENDS_ACCEPT_FORMAT: '§eRedix §8| §fUse - §6/f accept <player name>'
+FRIENDS_DENY_FORMAT: '§eRedix §8| §fUse - §6/f deny <player name>'
+FRIENDS_TP_FORMAT: '§eRedix §8| §fИспользуйте - §6/f tp <player name>'
 FRIEND_HELP:
-  - '§e§lFriends §8:: §fHelp commands:'
+  - '§eFriends §8| §fHelp commands:'
   - ' §7Add player to friends list - §a/friends add <player name>'
   - ' §7Remove player from friends list - §a/friends remove <player name>'
   - ' §7Accept friend request from player - §a/friends accept <player name>'
@@ -892,32 +892,32 @@ FRIEND_HELP:
   - ' §7Friend list - §a/friends list'
   - ' §7Friend request list - §a/friends requests'
   - ' §7Teleport to your friend server - §a/friends tp <player name>'
-FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§e§lFriends §8:: §fThis player has already invited you as a friend'
-FRIEND_ADD_ERROR_HAS_REQUEST: '§e§lFriends §8:: §cError, You have already sent friend request to that player...'
-FRIEND_ADD_ERROR_IS_FRIEND: '§e§lFriends §8:: §cError, You are already friends with that player!'
-FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND: '§e§lFriends §8:: §cError, You cannot add yourself to your friend list'
-FRIEND_ADD_SUCCESS_SEND: '§e§lFriends §8:: §fFriend request sent to player %player%'
-FRIEND_REMOVE_ERROR_HAS_FRIEND: '§e§lFriends §8:: §cError, this player is not your friend!'
-FRIEND_SUCCESS_REMOVE_FRIEND: '§e§lFriends §8:: §fPlayer %player% §fwas removed from your friend list'
-FRIENDS_DONT_HAVE_INVITES: '§e§lFriends §8:: §fAt the moment you have no actual friend requests!'
-FRIEND_LIST: "§e§lFriends §8:: §fList of your friends: §e(%count%)"
+FRIEND_ADD_ERROR_DUPLICATE_REQUEST: '§eFriends §8| §fThis player has already invited you as a friend'
+FRIEND_ADD_ERROR_HAS_REQUEST: '§eFriends §8| §cError, You have already sent friend request to that player...'
+FRIEND_ADD_ERROR_IS_FRIEND: '§eFriends §8| §cError, You are already friends with that player!'
+FRIEND_ADD_ERROR_YOURSELF_AS_FRIEND: '§eFriends §8| §cError, You cannot add yourself to your friend list'
+FRIEND_ADD_SUCCESS_SEND: '§eFriends §8| §fFriend request sent to player %player%'
+FRIEND_REMOVE_ERROR_HAS_FRIEND: '§eFriends §8| §cError, this player is not your friend!'
+FRIEND_SUCCESS_REMOVE_FRIEND: '§eFriends §8| §fPlayer %player% §fwas removed from your friend list'
+FRIENDS_DONT_HAVE_INVITES: '§eFriends §8| §fAt the moment you have no actual friend requests!'
+FRIEND_LIST: "§eFriends §8| §fList of your friends: §e(%count%)"
 FRIEND_LIST_NO_FRIENDS:
   - "§cSorry, but your friends list is empty. :("
   - "§cTop it up by adding them with the command /friends add <player name>"
-FRIEND_LIST_REQUESTS: "§e§lFriends §8:: §fList of current requests: §e(%count%)"
-FRIENDS_NEW_FRIEND: '§e§lFriends §8:: §fCongratulations! You are now friends with %player%'
-FRIENDS_YOU_REJECTED_REQUEST: '§e§lFriends §8:: §fYou have rejected a friend request from %player%'
-FRIENDS_REQUEST_REJECTED: '§e§lFriends §8:: §fPlayer %player% §fhas rejected your friend request'
-FRIENDS_DONT_HAVE_INVITES_FROM: '§e§lFriends §8:: §cError, this player did not send You a friend invitation!'
+FRIEND_LIST_REQUESTS: "§eFriends §8| §fList of current requests: §e(%count%)"
+FRIENDS_NEW_FRIEND: '§eFriends §8| §fCongratulations! You are now friends with %player%'
+FRIENDS_YOU_REJECTED_REQUEST: '§eFriends §8| §fYou have rejected a friend request from %player%'
+FRIENDS_REQUEST_REJECTED: '§eFriends §8| §fPlayer %player% §fhas rejected your friend request'
+FRIENDS_DONT_HAVE_INVITES_FROM: '§eFriends §8| §cError, this player did not send You a friend invitation!'
 
 # Party messages.
 NO_PARTY_HELP:
-  - '§e§lParty §8:: §fCommand Help:'
+  - '§eParty §8| §fCommand Help:'
   - ' §7Send request - §a/party invite <nick>'
   - ' §7Accept request - §a/party accept <nick>'
   - ' §7Reject request - §a/party cancel <nick>'
 HAS_PARTY_HELP:
-  - '§e§lParty §8:: §fCommand Help:'
+  - '§eParty §8| §fCommand Help:'
   - ' §7Send request - §a/party invite <nick>'
   - ' §7Party chat - §a/party chat <message>'
   - ' §7List of players in the group - §a/party list'
@@ -925,16 +925,16 @@ HAS_PARTY_HELP:
   - ' §7Teleport group to server - §a/party warp'
   - ' §7Leave group - §a/party leave'
   - ' §7Delete group - §a/party disband'
-PARTY_ADD_FORMAT: '§b§lApexCloud:: §fUse - §6/party invite <player name>'
-PARTY_REMOVE_FORMAT: '§b§lApexCloud:: §fUse - §6/party remove <player name>'
-PARTY_ADD_DUPLICATE: '§e§lParty §8:: §cError, you can t add yourself as a party!'
-PARTY_ADD_IS_PARTY: '§e§lParty §8:: §cError, this player is already your party!'
-PARTY_ADD_HAS_REQUEST: '§e§lParty §8:: §cError, you have already submitted a request to add this player as a party!'
-PARTY_ADD_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully accepted a party request from %player%'
-PARTY_ADD_SUCCESS_MEMBER: '§e§lParty §8:: %player% §faccepted your application as a party!'
-PARTY_SUCCESS_MEMBER: '§e§lParty §8:: %player% §foffers to become your PARTY!'
-PARTY_SUCCESS_SENDER: '§e§lParty §8:: §fYou have successfully submitted your application %player% §f, wait for his response!'
-PARTY_ALERT: '§e§lParty §8:: %player% §fjoined the group'
+PARTY_ADD_FORMAT: '§eRedix §8| §fUse - §6/party invite <player name>'
+PARTY_REMOVE_FORMAT: '§eRedix §8| §fUse - §6/party remove <player name>'
+PARTY_ADD_DUPLICATE: '§eParty §8| §cError, you can t add yourself as a party!'
+PARTY_ADD_IS_PARTY: '§eParty §8| §cError, this player is already your party!'
+PARTY_ADD_HAS_REQUEST: '§eParty §8| §cError, you have already submitted a request to add this player as a party!'
+PARTY_ADD_SUCCESS_SENDER: '§eParty §8| §fYou have successfully accepted a party request from %player%'
+PARTY_ADD_SUCCESS_MEMBER: '§eParty §8| §f%player% §faccepted your application as a party!'
+PARTY_SUCCESS_MEMBER: '§eParty §8| §f%player% §foffers to become your PARTY!'
+PARTY_SUCCESS_SENDER: '§eParty §8| §fYou have successfully submitted your application %player% §f, wait for his response!'
+PARTY_ALERT: '§eParty §8| §f%player% §fjoined the group'
 
 PARTY_MENU_LIST_TITLE: 'Party list'
 PARTY_MENU_LIST_ONLINE_INFO:
@@ -949,17 +949,17 @@ PARTY_MENU_LIST_ONLINE_INFO:
   - '§cClick to remove a party'
 
 # Core online messages.
-message-ApexCloud-online-global: '§b§lApexCloud:: §fGeneral online - §e%online%'
-message-ApexCloud-online-prefix: '§b§lApexCloud:: §fGlobal online servers by prefix §e%prefix% - §e%online%'
-message-ApexCloud-online: '§b§lApexCloud:: §fOnline server §e%prefix% - §e%online%'
+message-ApexCloud-online-global: '§eRedix §8| §fGeneral online - §e%online%'
+message-ApexCloud-online-prefix: '§eRedix §8| §fGlobal online servers by prefix §e%prefix% - §e%online%'
+message-ApexCloud-online: '§eRedix §8| §fOnline server §e%prefix% - §e%online%'
 
 # StickFight messages
-STICK_FIGHT_PLAYER_JOIN: '§6§lStickFight §8:: {player} §fjoined the game §7({online}/{max})'
-STICK_FIGHT_PLAYER_QUIT: '§6§lStickFight §8:: {player} §fleave the game §7({online}/{max})'
-STICK_FIGHT_PLAYER_TIMER_TICK: '§6§lStickFight §8:: §fGame started in §e{time} sec.'
+STICK_FIGHT_PLAYER_JOIN: '§eStickFight §8| §f{player} §fjoined the game §7({online}/{max})'
+STICK_FIGHT_PLAYER_QUIT: '§eStickFight §8| §f{player} §fleave the game §7({online}/{max})'
+STICK_FIGHT_PLAYER_TIMER_TICK: '§eStickFight §8| §fGame started in §e{time} sec.'
 STICK_FIGHT_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cError, not enough coins!'
 
-STICK_FIGHT_BOUGHT_ITEM_SUCCESS_BUY: '§6§lStickFight §8:: §e{item_name} §fsuccessfully purchased'
+STICK_FIGHT_BOUGHT_ITEM_SUCCESS_BUY: '§eStickFight §8| §e{item_name} §fsuccessfully purchased'
 
 STICK_FIGHT_GAME_WAIT_TIMER_5: 'Game started in: §a❺'
 STICK_FIGHT_GAME_WAIT_TIMER_4: 'Game started in: §e❹'
@@ -1031,24 +1031,24 @@ STICK_FIGHT_BOARDS_END_LINES:
   - '§6www.ApexCloud.ru'
 
 # SkyWars messages.
-SKYWARS_PLAYER_JOIN: '§6§lSkyWars §8:: {player} §fjoined the game §7({online}/{max})'
-SKYWARS_PLAYER_QUIT: '§6§lSkyWars §8:: {player} §fleave the game §7({online}/{max})'
-SKYWARS_PLAYER_TIMER_TICK: '§6§lSkyWars §8:: §fGame started in §e{time} sec.'
+SKYWARS_PLAYER_JOIN: '§eSkyWars §8| §f{player} §fjoined the game §7({online}/{max})'
+SKYWARS_PLAYER_QUIT: '§eSkyWars §8| §f{player} §fleave the game §7({online}/{max})'
+SKYWARS_PLAYER_TIMER_TICK: '§eSkyWars §8| §fGame started in §e{time} sec.'
 
 SKYWARS_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cError, not enough coins!'
-SKYWARS_BOUGHT_ITEM_SUCCESS_BUY: '§6§lSkyWars §8:: §e{item_name} §fsuccessfully purchased'
+SKYWARS_BOUGHT_ITEM_SUCCESS_BUY: '§eSkyWars §8| §e{item_name} §fsuccessfully purchased'
 
-SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE: '§6§lSkyWars §8:: {player} §fsuicide'
-SKYWARS_PLAYER_DEATH_CAUSE_PROJECTILE: '§6§lSkyWars §8:: {player} §fwas killed by projectile'
-SKYWARS_PLAYER_DEATH_CAUSE_FALL: '§6§lSkyWars §8:: {player} §ffall'
-SKYWARS_PLAYER_DEATH_CAUSE_LAVA: '§6§lSkyWars §8:: {player} §fkilled by lava'
-SKYWARS_PLAYER_DEATH_CAUSE_FIRE: '§6§lSkyWars §8:: {player} §fkilled by fire'
-SKYWARS_PLAYER_DEATH_CAUSE_FIRE_TICK: '§6§lSkyWars §8:: {player} §fkilled by fire'
-SKYWARS_PLAYER_DEATH_CAUSE_MAGIC: '§6§lSkyWars §8:: {player} §fkilled by magic'
-SKYWARS_PLAYER_DEATH_CAUSE_WITCH: '§6§lSkyWars §8:: {player} §fkilled by magic'
-SKYWARS_PLAYER_DEATH_CAUSE_ENTITY_ATTACK: '§6§lSkyWars §8:: {killer} §fkill {player}'
-SKYWARS_PLAYER_DEATH_CAUSE_VOID: '§6§lSkyWars §8:: {player} §ffall'
-SKYWARS_PLAYER_DEATH_CAUSE_CUSTOM: '§6§lSkyWars §8:: {player} §fkilled by custom death'
+SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE: '§eSkyWars §8| §f{player} §fsuicide'
+SKYWARS_PLAYER_DEATH_CAUSE_PROJECTILE: '§eSkyWars §8| §f{player} §fwas killed by projectile'
+SKYWARS_PLAYER_DEATH_CAUSE_FALL: '§eSkyWars §8| §f{player} §ffall'
+SKYWARS_PLAYER_DEATH_CAUSE_LAVA: '§eSkyWars §8| §f{player} §fkilled by lava'
+SKYWARS_PLAYER_DEATH_CAUSE_FIRE: '§eSkyWars §8| §f{player} §fkilled by fire'
+SKYWARS_PLAYER_DEATH_CAUSE_FIRE_TICK: '§eSkyWars §8| §f{player} §fkilled by fire'
+SKYWARS_PLAYER_DEATH_CAUSE_MAGIC: '§eSkyWars §8| §f{player} §fkilled by magic'
+SKYWARS_PLAYER_DEATH_CAUSE_WITCH: '§eSkyWars §8| §f{player} §fkilled by magic'
+SKYWARS_PLAYER_DEATH_CAUSE_ENTITY_ATTACK: '§eSkyWars §8| §f{killer} §fkill {player}'
+SKYWARS_PLAYER_DEATH_CAUSE_VOID: '§eSkyWars §8| §f{player} §ffall'
+SKYWARS_PLAYER_DEATH_CAUSE_CUSTOM: '§eSkyWars §8| §f{player} §fkilled by custom death'
 
 SKYWARS_PVP_ACTIVE: '§aPVP has been activated. You can open chests!'
 
