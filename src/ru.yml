@@ -14,15 +14,11 @@ ALREADY_CONNECTION: '§eRedix §8| §fОшибка, вы уже находите
 SERVER_NOT_FOUND: '§eRedix §8| §fОшибка, данный сервер не подключен к Core!'
 CHANGE_PASSWORD_USAGE: '§eRedix §8| §fИспользуйте - §c/changepassword <старый_пароль> <новый_пароль>'
 LOGIN_USAGE:
-  - ''
-  - ' §8▪ §fДля входа в аккаунт используйте - §e/login <пароль>'
-  - ''
+  - '§eRedix §8| §fДля входа в аккаунт используйте - §e/login <пароль>'
 LOGIN_ACTION_BAR: '§eRedix §8| §f/register <пароль> <повтор пароля>'
 
 REGISTER_USAGE:
-  - ''
-  - ' §8▪ §fДля регистрации используйте - §e/register <пароль> <повтор пароля>'
-  - ''
+  - '§eRedix §8| §fДля регистрации используйте - §e/register <пароль> <повтор пароля>'
 REGISTER_ACTION_BAR: '§eRedix §8| §f/register <пароль> <повтор пароля>'
 UNREGISTER_USAGE: '§eRedix §8| §fИспользуйте - §c/unregister <игрок>'
 DID_NOT_HAVE_TIME_TO_LOGIN: '§cВы не успели авторизоваться!'
