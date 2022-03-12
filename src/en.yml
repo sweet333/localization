@@ -24,7 +24,7 @@ ACCOUNT_NOT_LINKED_VK:
   - '§c§l⚠ Attention! §fYou do not have a §bVK page linked to your account.'
   - 'By doing this, you will be able to manage your account.'
   - 'If you get hacked, you can easily restore your account!'
-  - 'Do it now by writing in group messages: §evk.com/ApexCloud'
+  - 'Do it now by writing in group messages: §evk.com/Redix'
   - 'Command - §6!привязать [player] [password]'
 PLAYER_SUCCESS_AUTH: '§eRedix §8| §f6You successfully registered!'
 NO_VK: '§8▪ §fVK - §cNot linked'
@@ -45,7 +45,7 @@ PING_OTHER_MESSAGE: '§eRedix §8| §fPlayer Ping %player% §f- §a%ping% §fms'
 # Welcome messages
 WELCOME_MESSAGE:
   - ''
-  - '§8§k§l|§r§1  §fWelcome to §b§lApexCloud  §8§k§l|'
+  - '§8§k§l|§r§1  §fWelcome to §b§lRedix  §8§k§l|'
   - ''
   - ' §8▪ §fHere you can have a §agood time.'
   - ' §8▪ §fThe items in your inventory will help you!'
@@ -63,7 +63,7 @@ BUNGEE_ANNOUNCER_DONATE_HOVER: '§fClick here to open the menu'
 BUNGEE_ANNOUNCER_IP_COPY_MESSAGE:
   - ''
   - '§4▪ §fPlease tell your §cfriends§f about this server'
-  - '§e▪ §fServer IP: §6ApexCloud.ru'
+  - '§e▪ §fServer IP: §6Redix.ru'
   - '§b▪ §fThis will help the §eserver§f develop much §bfaster'
   - ''
   - ' §8§l↪ §7(Copy IP) §8§l↩'
@@ -112,7 +112,7 @@ BUNGEE_ANNOUNCER_REPORT_HOVER: '§fCommand - §c/report <nick> <reason>'
 BUNGEE_ANNOUNCER_FULL_SLOTS_MESSAGE:
   - ''
   - '§a▪ §fAre all arenas §cfull§f, not enough slots?'
-  - '§e▪ §fBuy §e§lKNIGHT §fon the site §6www.ApexCloud.ru'
+  - '§e▪ §fBuy §e§lKNIGHT §fon the site §6www.redix.ru'
   - '§6▪ §fand problem will be solved.'
   - ''
   - ' §8§l↪ §7(Go to site) §8§l↩'
@@ -131,7 +131,7 @@ BUNGEE_ANNOUNCER_QUANTUM_2_MESSAGE:
   - ''
   - '§e▪ §fПривилегия §e§lNINJA §fдает большое'
   - '§2▪ §fколичество §bбонусов§f и §eвозможностей§f за умеренную цену.'
-  - '§9▪ §fЗаинтересовало? Покупай на сайте §6www.ApexCloud.ru'
+  - '§9▪ §fЗаинтересовало? Покупай на сайте §6www.redix.ru'
   - ''
   - ' §8§l↪ §7(Перейти на сайт) §8§l↩'
   - ''
@@ -167,7 +167,7 @@ BUNGEE_ANNOUNCER_VK_ANNOUNCER_MESSAGE:
   - ''
   - '§a▪ §fПосетите нашу группу §9VK§f и вы будете всегда'
   - '§9▪ §fв курсе последних новостей §eсервера'
-  - '§b▪ §fПереходите по ссылке §bvk.com/ApexCloud'
+  - '§b▪ §fПереходите по ссылке §bvk.com/Redix'
   - ''
   - ' §8§l↪ §7(Перейти в ВК) §8§l↩'
   - ''
@@ -176,7 +176,7 @@ BUNGEE_ANNOUNCER_MONITORING_ANNOUNCER_MESSAGE:
   - ''
   - '§a▪ §fПосетите нашу группу §9VK§f и вы будете всегда'
   - '§9▪ §fв курсе последних новостей §eсервера'
-  - '§b▪ §fПереходите по ссылке §bvk.com/ApexCloud'
+  - '§b▪ §fПереходите по ссылке §bvk.com/Redix'
   - ''
   - ' §8§l↪ §7(Перейти в ВК) §8§l↩'
   - ''
@@ -254,7 +254,7 @@ WHITELIST_KICK_MESSAGE:
   - '§2'
   - '§3'
   - '§7You can apply for a tester position in our VK'
-  - '§9vk.com/ApexCloud'
+  - '§9vk.com/Redix'
   - '§4'
   - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 
@@ -332,9 +332,9 @@ STREAM_UPDATE_REMOVED: '§eRedix §8| §f&fYour &7%stream_title% &fstream has be
 
 # Hub scoreboard.
 HUB_BOARD_TITLE:
-  - '§8» §b§lApexCloud §8→ §e§lHub'
-  - '§8» §b§lApexCloud §8→ §e§lHub'
-  - '§8» §b§lApexCloud §8→ §e§lHub'
+  - '§8» §b§lRedix §8→ §e§lHub'
+  - '§8» §b§lRedix §8→ §e§lHub'
+  - '§8» §b§lRedix §8→ §e§lHub'
 HUB_BOARD_LINES:
   - '§1'
   - ' §e§lProfile:'
@@ -350,7 +350,7 @@ HUB_BOARD_LINES:
   - ' §fOnline: §a%online%'
   - ' §fServer: §7%server_name%'
   - '§a'
-  - '   §b§lwww.ApexCloud.ru'
+  - '   §b§lwww.redix.ru'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
@@ -369,7 +369,7 @@ MMORPG_BOARD_LINES:
   - ' §fDeaths: §c%deaths%'
   - '§9'
   - '§fOnline: §a%online%'
-  - '§b§lwww.ApexCloud.ru'
+  - '§b§lwww.redix.ru'
 
 # Grief scoreboard.
 GRIEF_BOARD_TITLE:
@@ -389,7 +389,7 @@ GRIEF_BOARD_LINES:
   - '§9'
   - ' §fOnline: §a%online%'
   - '§a'
-  - '§b§lwww.ApexCloud.ru'
+  - '§b§lwww.redix.ru'
 
 # SkyWars scoreboard.
 SKYWARS_BOARD_TITLE:
@@ -408,7 +408,7 @@ SKYWARS_BOARD_LINES:
   - '§fRating: §a%rating%'
   - '§fOnline: §a%online%'
   - '§7'
-  - '§b§lwww.ApexCloud.ru'
+  - '§b§lwww.redix.ru'
 
 # OneBlock scoreboard.
 ONEBLOCK_BOARD_TITLE:
@@ -428,7 +428,7 @@ ONEBLOCK_BOARD_LINES:
   - ''
   - 'Server online: §a%online%'
   - ''
-  - '§b§lwww.ApexCloud.ru'
+  - '§b§lwww.redix.ru'
 
 # Duels scoreboard.
 DUELS_BOARD_TITLE:
@@ -450,7 +450,7 @@ DUELS_BOARD_LINES:
   - ' §fOnline: §a%online%'
   - ' §fServer: §7%server_name%'
   - '§a'
-  - '   §b§lwww.ApexCloud.ru'
+  - '   §b§lwww.redix.ru'
 
 # BedWars scoreboard.
 BEDWARS_BOARD_TITLE:
@@ -468,7 +468,7 @@ BEDWARS_BOARD_LINES:
   - '§9'
   - '§fOnline: §a%online%'
   - '§7'
-  - '§b§lwww.ApexCloud.ru'
+  - '§b§lwww.redix.ru'
 
 # Core player info messages.
 INFO:
@@ -620,13 +620,13 @@ HELP_MENU_NAVIGATION_LINES:
   - '§e▸ Click to learn more.'
 HELP_MENU_SOCIAL_TITLE: '§bLinks'
 HELP_MENU_SOCIAL_LINES:
-  - '§7Server IP: §6mc.ApexCloud.ru'
+  - '§7Server IP: §6mc.Redix.ru'
   - ''
-  - '§7Our Discord: §9discord.io/ApexCloud'
-  - '§7Our VK: §bvk.com/ApexCloud'
-  - '§7Site: §6www.ApexCloud.ru'
+  - '§7Our Discord: §9discord.io/Redix'
+  - '§7Our VK: §bvk.com/Redix'
+  - '§7Site: §6www.redix.ru'
   - ''
-  - '§7Support email: §dsupport@ApexCloud.ru'
+  - '§7Support email: §dsupport@Redix.ru'
   - ''
   - '§e▸ Click to learn more.'
 HELP_MENU_DONATE_TITLE: '§bDonate status'
@@ -644,7 +644,7 @@ HELP_MENU_DONATE_LINES:
   - '§7find in section §bProfile §7/ §bDonate'
   - ''
   - '§7You can purchase privileges'
-  - '§7in site §dwww.ApexCloud.ru'
+  - '§7in site §dwww.redix.ru'
 
 HELP_MENU_FRIENDS_TITLE: '§bPlaying with friends'
 HELP_MENU_FRIENDS_LINES:
@@ -809,7 +809,7 @@ DONATE_STATUS_YOUTUBE_LORE:
   - '§7Basic requirements for publishing content:'
   - '§fThe description and the name of the video or stream'
   - '§fmust indicate the IP and the site of the project:'
-  - '§6www.ApexCloud.ru, mc.ApexCloud.ru'
+  - '§6www.redix.ru, mc.Redix.ru'
   - ''
   - '§7Status has include possibility donate §c§lTYNIX'
   - '§7Add stream - §6/stream <url>'
@@ -865,7 +865,7 @@ DONATE_NITRO_TITLE: 'Donate ▸ NITRO'
 
 DONATE_BUY_MESSAGE:
   - '§e'
-  - '§8◦ §fBuy on site  §8▸  §6www.ApexCloud.ru'
+  - '§8◦ §fBuy on site  §8▸  §6www.redix.ru'
   - '§9'
 
 # Core chat system.
@@ -949,9 +949,9 @@ PARTY_MENU_LIST_ONLINE_INFO:
   - '§cClick to remove a party'
 
 # Core online messages.
-message-ApexCloud-online-global: '§eRedix §8| §fGeneral online - §e%online%'
-message-ApexCloud-online-prefix: '§eRedix §8| §fGlobal online servers by prefix §e%prefix% - §e%online%'
-message-ApexCloud-online: '§eRedix §8| §fOnline server §e%prefix% - §e%online%'
+message-Redix-online-global: '§eRedix §8| §fGeneral online - §e%online%'
+message-Redix-online-prefix: '§eRedix §8| §fGlobal online servers by prefix §e%prefix% - §e%online%'
+message-Redix-online: '§eRedix §8| §fOnline server §e%prefix% - §e%online%'
 
 # StickFight messages
 STICK_FIGHT_PLAYER_JOIN: '§eStickFight §8| §f{player} §fjoined the game §7({online}/{max})'
@@ -1006,7 +1006,7 @@ STICK_FIGHT_BOARDS_WAITING_LINES:
   - 'Game status:'
   - ' §e%game_status'
   - '§3'
-  - '§6www.ApexCloud.ru'
+  - '§6www.redix.ru'
 STICK_FIGHT_BOARDS_GAME_NAME:
   - '§6§lStick FIGHT'
 STICK_FIGHT_BOARDS_GAME_LINES:
@@ -1019,7 +1019,7 @@ STICK_FIGHT_BOARDS_GAME_LINES:
   - '§2'
   - 'Map: §a%map'
   - '§4'
-  - '§6www.ApexCloud.ru'
+  - '§6www.redix.ru'
 STICK_FIGHT_BOARDS_END_NAME:
   - '§6§lStick FIGHT'
 STICK_FIGHT_BOARDS_END_LINES:
@@ -1028,7 +1028,7 @@ STICK_FIGHT_BOARDS_END_LINES:
   - 'Winners:'
   - ' %winners'
   - '§2'
-  - '§6www.ApexCloud.ru'
+  - '§6www.redix.ru'
 
 # SkyWars messages.
 SKYWARS_PLAYER_JOIN: '§eSkyWars §8| §f{player} §fjoined the game §7({online}/{max})'
@@ -1104,7 +1104,7 @@ SKYWARS_BOARDS_WAITING_LINES:
   - 'Game status:'
   - ' §e%game_status'
   - '§3'
-  - '§6www.ApexCloud.ru'
+  - '§6www.redix.ru'
 SKYWARS_BOARDS_GAME_NAME:
   - '§6§lSkyWars'
 SKYWARS_BOARDS_GAME_LINES:
@@ -1121,7 +1121,7 @@ SKYWARS_BOARDS_GAME_LINES:
   - 'Players in §e20 §fblocks near:'
   - ' §a%near_players players'
   - '§4'
-  - '§6www.ApexCloud.ru'
+  - '§6www.redix.ru'
 SKYWARS_BOARDS_END_NAME:
   - '§6§lSkyWars'
 SKYWARS_BOARDS_END_LINES:
@@ -1130,7 +1130,7 @@ SKYWARS_BOARDS_END_LINES:
   - 'Winners:'
   - ' %winners'
   - '§2'
-  - '§6www.ApexCloud.ru'
+  - '§6www.redix.ru'
 
 #SkyWars kits messages.
 SKYWARS_KITS_DEFAULT_NAME: 'Стандартный'
