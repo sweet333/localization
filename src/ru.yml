@@ -418,26 +418,17 @@ STREAMS_ANNOUNCE:
 STREAM_UPDATE_REMOVED: '&eRedix &8| &f&fВаш стрим &7%stream_title% &fбыл удален, так как он больше не актуален!'
 
 # Hub scoreboard.
-HUB_BOARD_TITLE:
-  - '§8» §c§lRedix §8→ §e§lHub'
-  - '§8» §c§lRedix §8→ §e§lHub'
-  - '§8» §c§lRedix §8→ §e§lHub'
 HUB_BOARD_LINES:
   - '§1'
-  - ' §e§lПрофиль:'
-  - '  §fСтатус: %status%'
-  - '  §fБаланс: §a%balance%'
-  - '  §fЗолота: §e%golds%'
-  - '  §fУровень: §d%level%'
-  - '  §fEXP: §a%level_exp%§8/§c%level_max_exp%'
-  - '§e'
-  - ' §fПрогресс уровня: §a%level_exp_percent%'
-  - '  §a↪ %level_bar%'
-  - '§c'
-  - ' §fОнлайн: §a%online%'
-  - ' §fСервер: §7%server_name%'
-  - '§a'
-  - '   §c§lwww.Redix.net'
+  - '§fМонет: §6%balance%'
+  - '§fЗолота: §e%golds%'
+  - '§2'
+  - '§fУровень: §d%level%'
+  - '§fПрогресс: §7%level_bar%'
+  - '§3'
+  - '§fОбщий онлайн: §a%online%'
+  - '§4'
+  - '§ewww.Redix.net'
 
 # MMORPG scoreboard.
 MMORPG_BOARD_TITLE:
