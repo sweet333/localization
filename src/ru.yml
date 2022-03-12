@@ -423,7 +423,7 @@ HUB_BOARD_LINES:
   - '§fМонет: §6%balance%'
   - '§fЗолота: §e%golds%'
   - '§2'
-  - '§fУровень: §d%level%'
+  - '§fУровень: §9%level%'
   - '§fПрогресс: §7%level_bar%'
   - '§3'
   - '§fОбщий онлайн: §a%online%'
