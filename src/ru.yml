@@ -311,7 +311,7 @@ HOLOGRAM_CASES_LINE_2: '§7Ожидает своего пробуждения'
 HOLOGRAM_CASES_LINE_3: '§7от Великого мага'
 MENU_LUCKYWARS_NAVIGATION_LINES:
       
-MENU_DUELS_NAVIGATION_LINES:   
+MENU_SURVIVAL_NAVIGATION_LINES:
   - ''
   - ' §8| §c§lВНИМАНИЕ! §fзапустил трансляцию на '
   - ' §8| §fНазвание: §e'
@@ -381,6 +381,7 @@ MENU_MAIN_LOBBY_LINES:
   - ' §8| §fЗрителей: §e§a'
   - ''
   - '§7[Перейти на трансляцию§7]'
+MENU_SURVIVAL_NAVIGATION_TITLE: '§bSurvival §e§lОткрытие!'
 MENU_LUCKYWARS_NAVIGATION_TITLE: '123123123123123'
 MENU_BEDWARS_NAVIGATION_TITLE: '12123123123123'
 MENU_SKYWARS_NAVIGATION_TITLE: '12312312123'
