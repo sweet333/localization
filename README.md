@@ -1,7 +1,7 @@
 # localization
 Minecraft json localization example
 
-``java
+```java
 public class TestPlugin extends JavaPlugin {
 
     @Override
