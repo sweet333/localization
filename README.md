@@ -1,6 +1,39 @@
 # localization
 Minecraft json localization example
 
+```json
+{
+    "PING_MESSAGE": {
+        "ru": "§bСервер §8| §fВаш пинг §a%s §fмс",
+        "en": "§bServer §8| §fYour ping is §a%s §fms"
+    },
+    "LOADING_ITEM_NAME": {
+        "ru": "§cЗагрузка...",
+        "en": "§cLoading..."
+    },
+    "LOADING_ITEM_LORE": {
+        "ru": "§7Идёт загрузка данных",
+        "en": "§7Data is being loaded"
+    },
+    "LANGUAGE_TITLE":{
+        "ru": "Выбор языка",
+        "en": "Language selection",
+        "ua": "Вибір мови"
+    },
+    "LANGUAGE_ITEM_LORE": {
+        "ru": ["", "§e▶ Нажмите, чтобы сменить язык!"],
+        "en": ["", "§e▶ Click to change the language!"],
+        "ua": ["", "§e▶ Натисніть, щоб змінити мову!"]
+    },
+    "TEST_GROUP": {
+        "ITEM_NAME": {
+            "ru": "§7АХАХАХХААХАХАХА",
+            "en": "§7AHAHAHAHAHAHAHA"
+        }
+    }
+}
+```
+
 ```java
 public class TestPlugin extends JavaPlugin {
 
