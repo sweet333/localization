@@ -46,8 +46,8 @@ public class TestPlugin extends JavaPlugin {
         String itemNameMessage = localizationService.get(LanguageType.RUSSIAN, "MAIN_TEST_GROUP_ITEM_NAME");
         String pingMessage = localizationService.get(LanguageType.RUSSIAN, "MAIN_PING_MESSAGE", 20);
         
-        getLogger.info(itemNameMessage);
-        getLogger.info(pingMessage);
+        getLogger().info(itemNameMessage);
+        getLogger().info(pingMessage);
     }
 
 }
